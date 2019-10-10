@@ -1,0 +1,1 @@
+Sample android app which contains unit test examples.

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidTestsSample</string>
+    <string name="login">Login</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="successful">Successful</string>
+    <string name="failed">Failed</string>
+    <string name="john">John</string>
+    <string name="john23">john23</string>
+    <string name="profile_details">Profile</string>
+</resources>

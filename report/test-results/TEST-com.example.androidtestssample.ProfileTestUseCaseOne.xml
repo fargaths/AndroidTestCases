@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.androidtestssample.ProfileTestUseCaseOne" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-25T14:53:48" hostname="AMM00430.local" time="0.523">
+  <properties/>
+  <testcase name="testProfileService" classname="com.example.androidtestssample.ProfileTestUseCaseOne" time="0.523"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Sep 25, 2019 8:23:48 PM okhttp3.mockwebserver.MockWebServer$start$$inlined$execute$1 run
+INFO: MockWebServer[61894] starting to accept connections
+Sep 25, 2019 8:23:49 PM okhttp3.mockwebserver.MockWebServer acceptConnections
+INFO: MockWebServer[61894] done accepting connections: Socket closed
+]]></system-err>
+</testsuite>
