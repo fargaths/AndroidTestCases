@@ -33,7 +33,7 @@ public class LoginTestUseCaseOne {
         assertNotNull(password);
 
         assertTrue(loginRepository.isValidPassword(password));
-    }*/
+    }*///
 
     @Test
     public void isValidUserNameTest() {
