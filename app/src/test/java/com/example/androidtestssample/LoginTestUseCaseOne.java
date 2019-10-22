@@ -22,7 +22,7 @@ public class LoginTestUseCaseOne {
         loginRepository = LoginRepository.getInstance();
     }
 
-    /*@Test
+    @Test
     public void isValidPasswordTest() {
 
         // for test to pass, password should contain 8 characters and above and the string password
@@ -33,7 +33,7 @@ public class LoginTestUseCaseOne {
         assertNotNull(password);
 
         assertTrue(loginRepository.isValidPassword(password));
-    }*/
+    }
 
     @Test
     public void isValidUserNameTest() {
